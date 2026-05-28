@@ -54,7 +54,7 @@ A continuación se detallan los módulos prácticos aplicados sobre *datasets* d
 
 ## 🏆 Proyecto Final Destacado (Sprint 13)
 
-### [🦅 Impacto de Infraestructuras en la Comunidad de Aves (Anchicayá, Colombia)](./link-a-tu-carpeta-del-proyecto-final)
+### [🦅 Impacto de Infraestructuras en la Comunidad de Aves (Anchicayá, Colombia)](https://github.com/mmbcg/Proyecto_Final_ITAcademy_Influencia-de-infraestructuras-en-la-comunidad-de-aves)
 Mi caso práctico final integra la totalidad de las herramientas del bootcamp en una investigación analítica y estadística avanzada:
 *   **Data Cleaning Extremo:** Implementación de algoritmos de coincidencia difusa (`fuzzywuzzy`) para la estandarización taxonómica de especies de aves.
 *   **Modelado Estadístico (GLM):** Uso de Modelos Lineales Generalizados en Python (`statsmodels`) para evaluar perfiles de diversidad alfa (Números de Hill).
